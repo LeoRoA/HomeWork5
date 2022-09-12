@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Задание 1;
-        System.out.println("Задание 1");
+        System.out.println("Задание 1:");
         byte clientOS1 = 1;
         switch (clientOS1){
             case 0:
